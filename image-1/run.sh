@@ -2,7 +2,7 @@ echo "Hello" $MY_NAME
 echo "Welcome to your very own container image."
 echo ""
 sleep 3
-echo "Wait! That isn't your name! - sorry!"
+echo "Wait! That isn't your name! - sorry."
 echo ""
 sleep 3
 
