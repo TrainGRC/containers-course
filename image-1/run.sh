@@ -7,5 +7,7 @@ echo ""
 sleep 3
 
 echo "If you want make this image your own - all you have to do is update the ENV variable MY_NAME in the Dockerfile"
+echo ""
+sleep 3
 echo "Then...rebuild the image - remember, container images are immutable!"
 sleep 7
