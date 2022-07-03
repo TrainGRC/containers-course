@@ -1,4 +1,6 @@
-echo "Hello, "$MY_NAME"."
+RED='\033[0;34m'
+NC='\033[0m' # No Color
+echo -e "Hello, ${RED}"$MY_NAME"${NC}."
 echo ""
 sleep 2
 echo "Welcome to your very own container image. This container image was built just for you..."
