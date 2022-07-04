@@ -15,4 +15,4 @@ Finally, students will learn how to use free open source software, [Trivy](https
 
 
 ### Thanks
-We hope you enjoy this free course from [Train GRC Academy](https://academy.traingrc.com/). Please [let us know](mailto:solutions@traingrc.com) if you have any questions or concerns about this course and course material.
+We hope you enjoy this free course from [Train GRC Academy](https://academy.traingrc.com/). Please [let us know](mailto:solutions@traingrc.com) if you have any questions or concerns about this course and the associated course material.
