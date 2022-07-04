@@ -19,6 +19,6 @@ if [[ "$DEFAULT_NAME" == "$MY_NAME" ]]
         sleep 3
         echo "Then...rebuild the image - remember, container images are immutable! Tag it :v2"
     else
-        echo "This container image was built just for you....by you."
+        echo "This container image was built just for you...by you."
 fi
 sleep 3
