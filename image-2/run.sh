@@ -1,13 +1,14 @@
 BLUE='\033[0;34m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
+echo ""
 echo -e "Hello, ${RED}"$MY_NAME"${NC}."
 echo ""
 sleep 2
 echo -e "${BLUE}Welcome to Train GRC Academy and Labs${NC}"
 echo ""
 sleep 3
-DEFAULT_NAME='John Jacob Jingleheimer Schmidt'
+DEFAULT_NAME='Wes Ladd'
 if [[ "$DEFAULT_NAME" == "$MY_NAME" ]]
     then
         echo "Wait! That isn't your name! - sorry."
