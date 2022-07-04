@@ -22,7 +22,7 @@ if [[ "$DEFAULT_NAME" == "$MY_NAME" ]]
         echo "This container image was built just for you...by you."
         sleep 2
         echo ""
-        echo "You might want to save this string of information for later:"
+        echo "You might want to save this special string of information for later:"
         sleep 2
         echo -e "${RED}9fbb56304b074a94966a3c55a53b9952${NC}"
 fi
