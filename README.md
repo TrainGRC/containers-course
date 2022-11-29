@@ -11,7 +11,7 @@ This task has students build their first container image. To do this, students w
 Once students have built a "Hello World" image, it's time to branch out to learn other techniques and concepts. This task teaches students about container immutability through an image that outputs information to the terminal. The information is custom-designed for the student. Unfortunately, an issue with this container image means the student will need to figure out how to get it to work.
 
 ### Task #3 - Running a Vulnerability Scan on Container Images
-Finally, students will learn how to use free open source software, [Trivy](https://github.com/aquasecurity/trivy/releases), to run vulnerability scans against our container images. Vulnerabilities in container images are a chief way that attackers may gain [initial access](https://attack.mitre.org/tactics/TA0001/) to your organization's containerized applications. We'll learn the mechanics of performing these scans, outputting the results to a file for data gathering - and some basic methods of interpreting scan results.
+Finally, students will learn how to use free open source software, [Trivy](https://github.com/aquasecurity/trivy/releases), to run vulnerability scans against our container images. Vulnerabilities in container services are a common way that attackers may gain [initial access](https://attack.mitre.org/tactics/TA0001/) to your organization's containerized applications. We'll learn the mechanics of performing these scans, outputting the results to a file for data gathering - and some basic methods of interpreting scan results.
 
 
 ### Thanks
